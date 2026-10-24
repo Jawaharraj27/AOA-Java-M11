@@ -23,8 +23,8 @@ Unlike traditional matrix multiplication which takes O(n3)O(n^3)O(n3) time, Stra
 ```
 /*
 Program to implement Reverse a String
-Developed by: MUKESH R
-Register Number: 212223240100
+Developed by: JAWAHAR RAJ N
+Register Number: 212223240057
 */
 import java.util.Scanner;
 
